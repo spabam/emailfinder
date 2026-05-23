@@ -1,0 +1,20 @@
+{
+  "_copyright": "Copyright (c) 2015-2025 Andrea Bodei - info@andreabodei.com",
+  "emails": [
+    "support@ietf.org"
+  ],
+  "url_emails": {
+    "https://www.ietf.org": "set()",
+    "https://www.ietf.org/about/introduction/": "set()",
+    "https://www.ietf.org/meeting/registration-fee-waivers/": "{'support@ietf.org'}"
+  },
+  "stats": {
+    "pages_crawled": 3,
+    "emails_found": 1,
+    "unique_emails": 1,
+    "errors": 0,
+    "start_time": "2025-10-13 01:10:11.260847",
+    "end_time": "2025-10-13 01:10:12.623229"
+  },
+  "visited_urls": []
+}

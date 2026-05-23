@@ -1,0 +1,47 @@
+{
+  "_copyright": "Copyright (c) 2015-2025 Andrea Bodei - info@andreabodei.com",
+  "domains": [
+    {
+      "domain": "google.com",
+      "emails": "{'whoisrequest@markmonitor.com', 'abusecomplaints@markmonitor.com'}",
+      "error": null,
+      "whois_available": true
+    },
+    {
+      "domain": "github.com",
+      "emails": "{'abusecomplaints@markmonitor.com'}",
+      "error": null,
+      "whois_available": true
+    },
+    {
+      "domain": "microsoft.com",
+      "emails": "{'abusecomplaints@markmonitor.com'}",
+      "error": null,
+      "whois_available": true
+    }
+  ],
+  "all_emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "domain_emails": {
+    "google.com": [
+      "whoisrequest@markmonitor.com",
+      "abusecomplaints@markmonitor.com"
+    ],
+    "github.com": [
+      "abusecomplaints@markmonitor.com"
+    ],
+    "microsoft.com": [
+      "abusecomplaints@markmonitor.com"
+    ]
+  },
+  "stats": {
+    "domains_queried": 3,
+    "emails_found": 4,
+    "unique_emails": 2,
+    "errors": 0,
+    "start_time": "2025-10-13 01:30:31.190818",
+    "end_time": "2025-10-13 01:30:32.651626"
+  }
+}

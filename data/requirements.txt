@@ -1,0 +1,7 @@
+# Copyright (c) 2015-2025 Andrea Bodei - info@andreabodei.com
+# Version: 2.0.1.202510210253
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+urllib3>=1.26.0
+lxml>=4.6.0
+
